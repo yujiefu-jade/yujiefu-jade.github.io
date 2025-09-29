@@ -63,10 +63,12 @@ I'm currently exploring PhD opportunities, so if you're interested in me, feel f
 {% endfor %}
 
 ## 🌍 Conference
+- 2025.08: 30th Congress of Chinese Society of Pathology and 14th Annual Meeting of Chinese Pathologist’s
+  – written presentation 
 - 2024.10: “Computational Biology of the Genome” Cold Spring Harbor Asia Conference, Suzhou  
   — learned and shared research ideas
 - 2024.03: 29th Congress of Chinese Society of Pathology and 13th Annual Meeting of Chinese Pathologist’s, Beijing  
-  — written presentation  
+  — written presentation 
   — as a volunteer responsible for VIP registration
 - 2021.10: 10th Jinling High-level Forum on Rehabilitation Medicine Youth Forum, Nanjing  
   — oral presentation
@@ -74,6 +76,8 @@ I'm currently exploring PhD opportunities, so if you're interested in me, feel f
   — oral presentation
 
 ## 🎖️ Honors and Awards  
+– 2023.06: 🌟 Freshman Scholarship of Peking Union Medical College 
+– 2023.06: 🌟 First-Class Honours Bachelor 2023
 - 2023.06: 🌟 Outstanding Bachelor Graduate of Xuzhou Medical University
 - 2023.04: 💰 First Prize Scholarship of Xuzhou Medical University (Top 5%)
 - 2022.04: 💰 First Prize Scholarship of Xuzhou Medical University (Top 5%)
@@ -83,5 +87,5 @@ I'm currently exploring PhD opportunities, so if you're interested in me, feel f
 - 2020.04: 💰 Second Prize Scholarship of Xuzhou Medical University (Top 10%)
 
 ## 👩‍💻 Practical Experience
-- 2022.06 - 2023.06 Department of Rehabilitation, Jiangsu Veterans Hospital, Wuxi, P.R. China 🇨🇳 
+- 2022.06 - 2023.06 Department of Rehabilitation, Jiangsu Veterans Hospital, Wuxi, P.R. China 🇨🇳
 
