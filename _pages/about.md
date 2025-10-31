@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 ## About Me {#about}
-I'm a third-year master's student from Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences / School of Basic Medicine Peking Union Medical College. I am very fortunate to be advised by Prof. Yamei NIU and Prof. Wei-Ming Tong.
+I'm a third-year master's student from Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences / School of Basic Medicine Peking Union Medical College. I am very fortunate to be advised by Prof. Yamei NIU and Prof. Wei-Min Tong.
     
 My research interests focus on: m6A modification, mitochondria and neurodegenerative diseases. 
 
 I'm currently exploring PhD opportunities, so if you're interested in me, feel free to [email me](mailto:fyjjade5525@gmail.com).
 
 ## 🔥 News {#news}
+- 2025.10: 🎉 Congratulations to myself on receiving the Second Prize Scholarship.
 - 2025.09: 🎉 Congratulations to myself on finishing an article! Hope it gets accepted soon.
 - 2025.08: 🎉 Congratulations to myself on passing the IELTS exam.
   
