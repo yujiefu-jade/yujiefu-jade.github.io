@@ -65,20 +65,20 @@ I'm currently exploring PhD opportunities, so if you're interested in me, feel f
 
 ## 🌍 Conference
 - 2025.08: 30th Congress of Chinese Society of Pathology and 14th Annual Meeting of Chinese Pathologist’s
-  – written presentation 
-- 2024.10: “Computational Biology of the Genome” Cold Spring Harbor Asia Conference, Suzhou  
-  — learned and shared research ideas
-- 2024.03: 29th Congress of Chinese Society of Pathology and 13th Annual Meeting of Chinese Pathologist’s, Beijing  
-  — written presentation 
-  — as a volunteer responsible for VIP registration
-- 2021.10: 10th Jinling High-level Forum on Rehabilitation Medicine Youth Forum, Nanjing  
-  — oral presentation
-- 2021.06: 2021 Jiangsu Physical Medicine and Rehabilitation Medicine Conference, Huaian  
-  — oral presentation
+  - written presentation
+- 2024.10: “Computational Biology of the Genome” Cold Spring Harbor Asia Conference, Suzhou
+  - learned and shared research ideas
+- 2024.03: 29th Congress of Chinese Society of Pathology and 13th Annual Meeting of Chinese Pathologist’s, Beijing
+  - written presentation
+  - as a volunteer responsible for VIP registration
+- 2021.10: 10th Jinling High-level Forum on Rehabilitation Medicine Youth Forum, Nanjing
+  - oral presentation
+- 2021.06: 2021 Jiangsu Physical Medicine and Rehabilitation Medicine Conference, Huaian
+  - oral presentation
 
 ## 🎖️ Honors and Awards  
-– 2023.06: 🌟 Freshman Scholarship of Peking Union Medical College 
-– 2023.06: 🌟 First-Class Honours Bachelor 2023
+- 2023.06: 🌟 Freshman Scholarship of Peking Union Medical College
+- 2023.06: 🌟 First-Class Honours Bachelor 2023
 - 2023.06: 🌟 Outstanding Bachelor Graduate of Xuzhou Medical University
 - 2023.04: 💰 First Prize Scholarship of Xuzhou Medical University (Top 5%)
 - 2022.04: 💰 First Prize Scholarship of Xuzhou Medical University (Top 5%)
