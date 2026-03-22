@@ -88,5 +88,6 @@ I'm currently exploring PhD opportunities, so if you're interested in me, feel f
 - 2020.04: 💰 Second Prize Scholarship of Xuzhou Medical University (Top 10%)
 
 ## 👩‍💻 Practical Experience
-- 2022.06 - 2023.06 Department of Rehabilitation, Jiangsu Veterans Hospital, Wuxi, P.R. China 🇨🇳
+- 2025.12 - Present Intern, Center for Brain-Inspired Computing Research, Tsinghua University, Beijing, P.R. China 🇨🇳
+- 2022.06 - 2023.06 Intern, Department of Rehabilitation, Jiangsu Veterans Hospital, Wuxi, P.R. China 🇨🇳
 
